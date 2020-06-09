@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105" started-at="2020-06-05T08:31:34Z" finished-at="2020-06-05T08:31:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105" started-at="2020-06-05T08:31:34Z" finished-at="2020-06-05T08:31:34Z">
+      <class name="com.testng.DataProviders">
+        <test-method status="PASS" signature="testMethod1(java.lang.String, java.lang.String)[pri:0, instance:com.testng.DataProviders@198378d]" name="testMethod1" duration-ms="20" started-at="2020-06-05T14:01:34Z" data-provider="inputs" finished-at="2020-06-05T14:01:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bmw]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testMethod1(java.lang.String, java.lang.String)[pri:0, instance:com.testng.DataProviders@198378d]" name="testMethod1" duration-ms="5" started-at="2020-06-05T14:01:34Z" data-provider="inputs" finished-at="2020-06-05T14:01:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[audi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testMethod1(java.lang.String, java.lang.String)[pri:0, instance:com.testng.DataProviders@198378d]" name="testMethod1" duration-ms="0" started-at="2020-06-05T14:01:34Z" data-provider="inputs" finished-at="2020-06-05T14:01:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nano]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+      </class> <!-- com.testng.DataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
